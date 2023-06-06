@@ -3,13 +3,13 @@ Text-Styling using HTML and CSS and SCSS and Javascript
 
 <a href="https://ahmed-dotnetdev.github.io/Text-Styling/"><strong>Live Demo<strong></a>
 
-# Technologies
+# Technologies 👨🏻‍💻
   <p>HTML</p>
   <p>CSS</p>  
   <p>Javascript</p>  
   <p>SASS</p>  
  
-# Features
+# Features ⚙✍🏻
   <p>You can type text and styling: </p>
   <p>Make it bold</p>
   <p>Make text italic</p>  
@@ -20,4 +20,7 @@ Text-Styling using HTML and CSS and SCSS and Javascript
   <p>Make text lowercase</p>      
   <p>Make text capitalize</p>      
   <p>Clear text</p>      
-  <p>Download text file</p>      
+  <p>Download text file</p>   
+  
+# Download 📥
+    <p>git clone https://github.com/Ahmed-DotNetDev/Text-Styling.git</p>
