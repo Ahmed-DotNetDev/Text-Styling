@@ -22,5 +22,8 @@ Text-Styling using HTML and CSS and SCSS and Javascript
   <p>Clear text</p>      
   <p>Download text file</p>   
   
-# Download 📥
-    <p>git clone https://github.com/Ahmed-DotNetDev/Text-Styling.git</p>
+## Clone 📥
+    
+    ```
+    git clone https://github.com/Ahmed-DotNetDev/Text-Styling.git
+    ```
