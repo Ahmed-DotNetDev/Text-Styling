@@ -23,7 +23,6 @@ Text-Styling using HTML and CSS and SCSS and Javascript
   <p>Download text file</p>   
   
 ## Clone 📥
-    
-    ```
-    git clone https://github.com/Ahmed-DotNetDev/Text-Styling.git
-    ```
+```
+git clone https://github.com/Ahmed-DotNetDev/Text-Styling.git
+```
